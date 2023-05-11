@@ -29,3 +29,11 @@
 
 ![newplot (1)](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/9ccd6dd4-e4b4-4135-83ef-adc180691409)
 
+### Distribution of Language of Films.
+
+![download](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/d669b053-406f-4ef1-b5b2-16742caa40a0)
+
+### The year was the most movies released.
+
+![newplot (2)](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/c40af2c8-4dce-41e9-929a-d1fbc81b21ab)
+
