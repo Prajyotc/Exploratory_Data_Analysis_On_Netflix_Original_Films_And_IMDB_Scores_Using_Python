@@ -37,3 +37,10 @@
 
 ![newplot (2)](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/c40af2c8-4dce-41e9-929a-d1fbc81b21ab)
 
+### The correlation between IMDB score and ‘Runtime
+
+![image](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/39ef53d0-ca26-488f-a8ce-a7373ce52f6e)
+
+
+![image](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/9c4ffa73-7c99-4fc9-9397-c4b4db42dd08)
+
