@@ -20,3 +20,12 @@
 ### Runtime by Years.
 
 ![download](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/3d6e31d1-c8a4-429e-b83d-27a7bbc4bc15)
+
+### The duration of Indian movies by Genre
+
+![newplot](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/d7089776-dd58-454e-831c-749d2a320dac)
+
+### Top 10 movies with the highest ‘runtime’.
+
+![newplot (1)](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/9ccd6dd4-e4b4-4135-83ef-adc180691409)
+
