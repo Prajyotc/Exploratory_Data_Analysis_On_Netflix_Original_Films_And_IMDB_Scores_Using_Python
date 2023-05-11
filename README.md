@@ -44,3 +44,5 @@
 
 ![image](https://github.com/Prajyotc/Exploratory_Data_Anlysis_On_Netflix_Original_Flims_And_IMDB_Scores/assets/115527993/9c4ffa73-7c99-4fc9-9397-c4b4db42dd08)
 
+## Conclusion:
+There is no high correlation between Runtime and IMDB Scores.
