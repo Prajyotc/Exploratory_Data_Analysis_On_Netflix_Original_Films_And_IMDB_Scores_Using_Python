@@ -1,4 +1,4 @@
-# Exploratory Data Anlysis On Netflix Original Flims & IMDB Scores
+# Exploratory Data Analysis On Netflix Original Films & IMDB Scores
 
 ## Database:
 •	Dataset was taken from Kaggle.
